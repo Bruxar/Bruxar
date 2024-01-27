@@ -9,6 +9,12 @@
   </ul>
 </div>
 
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -86,12 +92,6 @@
 <a href="https://discord.gg/Q9GdeYxy" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   
 </p>
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 <!--profile visit count-->
 <div align="center">
