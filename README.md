@@ -34,13 +34,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, PHP, MySQL**.
+- 🔭 I’m currently working on **React, Flutter, NodeJS**.
 
-- 🌱 I’m currently learning **Web Development**.
+- 🌱 I’m currently learning **Web and Mobile Development**.
 
 - ☁️ I've keen interest in Frontend. So, I'm learning **React**.
 
-- 💬 Ask me about **CSS, PHP, C++**.
+- 💬 Ask me about **CSS, JS, Dart, C++**.
 
 - 📫 Feel free to reach me out **lucasmartinarancibialujan@gmail.com**
 
@@ -83,7 +83,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,js,html,react,php,mysql,c,cpp,sass,bootstrap,python,gulp,git,figma,wordpress,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=css,js,html,react,flutter,nodejs,pug,php,mysql,c,cpp,sass,tailwind,bootstrap,python,gulp,git,figma,wordpress,vscode&perline=8" />
   </a>
 </p>
 
