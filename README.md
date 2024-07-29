@@ -40,7 +40,7 @@
 
 - ☁️ I've keen interest in Frontend. So, I'm learning **React**.
 
-- 💬 Ask me about **CSS, JS, Dart, C++**.
+- 💬 Ask me about **JS, CSS, Dart, C++**.
 
 - 📫 Feel free to reach me out **lucasmartinarancibialujan@gmail.com**
 
