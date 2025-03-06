@@ -28,7 +28,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Coffee and code ☕💻</h2></summary>
+    <summary><h2 style="display: inline-block">// TODO: insert funny quote</h2></summary>
   </ul>
 </div>
 
@@ -36,11 +36,11 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **React, Flutter, NodeJS**.
 
-- 🌱 I’m currently learning **Web and Mobile Development**.
+- 🌱 I’m currently learning **Artificial Intelligence**.
 
 - ☁️ I've keen interest in Frontend. So, I'm learning **React**.
 
-- 💬 Ask me about **JS, CSS, Dart, C++**.
+- 💬 Ask me about **IA, JS, CSS, Dart, C++**.
 
 - 📫 Feel free to reach me out **lucasmartinarancibialujan@gmail.com**
 
@@ -84,7 +84,7 @@
 <div align="center">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,js,html,react,flutter,nodejs,pug,sass,tailwind,bootstrap,php,mysql,c,cpp,python,gulp,git,figma,wordpress,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=css,js,html,react,flutter,nodejs,langchain,pug,sass,tailwind,bootstrap,php,mysql,c,cpp,python,gulp,git,figma,wordpress,vscode&perline=8" />
   </a>
 </p>
 </div>
