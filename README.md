@@ -28,7 +28,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">// TODO: insert funny quote</h2></summary>
+    <summary><h2 style="display: inline-block">Talk is cheap; show me the code.</h2></summary>
   </ul>
 </div>
 
