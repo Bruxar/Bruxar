@@ -57,8 +57,6 @@
 <td width="50%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Bruxar&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bruxar&theme=dark" alt="GitHub Streak" /></a>
 </td>
 
 <td width="50%" align="center">
@@ -84,7 +82,7 @@
 <div align="center">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,js,html,react,flutter,nodejs,langchain,pug,sass,tailwind,bootstrap,php,mysql,c,cpp,python,gulp,git,figma,wordpress,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=css,js,html,react,flutter,nodejs,pug,sass,tailwind,bootstrap,php,mysql,c,cpp,python,gulp,git,figma,wordpress,vscode&perline=8" />
   </a>
 </p>
 </div>
